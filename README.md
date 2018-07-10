@@ -12,7 +12,7 @@ Great Thanks to
  Use this Notification Payload for testing:
 
  {"aps":
- {
+	{
  "alert":"Rich Notification",
  "sound":"default",
  "mutable-content": 1,
