@@ -3,12 +3,12 @@
 Great Thanks to 
 
 
-@Dimitri James Tsiflitzis : https://medium.com/@tsif/ios-10-rich-push-notifications-with-media-attachments-a54dc86586c2
+\n @Dimitri James Tsiflitzis : https://medium.com/@tsif/ios-10-rich-push-notifications-with-media-attachments-a54dc86586c2
 
 
-@Veronika: https://www.pluralsight.com/guides/creating-ios-rich-push-notifications
+\n @Veronika: https://www.pluralsight.com/guides/creating-ios-rich-push-notifications
 
-Use this Notification Payload for testing:
+\n Use this Notification Payload for testing:\n
 
 
 {"aps":{
