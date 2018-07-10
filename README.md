@@ -8,6 +8,7 @@ Great Thanks to
 
  @Veronika: https://www.pluralsight.com/guides/creating-ios-rich-push-notifications
 
+
  Use this Notification Payload for testing:
 
  {"aps":
@@ -19,7 +20,7 @@ Great Thanks to
  "category": "myCategoryName"
  },
  "data":{
- "attachment-url":"https://cdn-images-1.medium.com/max/1600/1*6sqVk4MLLtYAd0cg8tzOvg.png"
+ "attachment-url":"https://i.imgur.com/t4WGJQx.jpg"
  }
  }
 
